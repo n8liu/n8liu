@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full+Stack+Developer;Data+Scientist;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **machine learning projects** and **full-stack applications**
-- 🌱 I'm currently learning **advanced ML techniques** and **cloud architecture**
-- 👯 I'm looking to collaborate on **data science projects** and **open source initiatives**
-- 🤔 I'm looking for help with **ML model optimization** and **distributed systems**
-- 💬 Ask me about **Python**, **machine learning**, **web development**, or **data engineering**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/n8liu) | [Email](mailto:nathan.dtliu@gmail.com)
-- ⚡ Fun fact: I love turning data into insights and coffee into code ☕️
-
 ## 🛠️ Tech Stack
 
 ### Languages
