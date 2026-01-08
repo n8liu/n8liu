@@ -1,10 +1,10 @@
-# Hi there, I'm Nate! 👋
+# Hi there, I'm Nathan! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full+Stack+Developer;Data+Scientist;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## 🛠️ Tech Stack
+## My Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,15 +43,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## 🎯 Current Focus
+## My Current Focus
 
-- 🤖 Building intelligent ML models and data pipelines
-- 🔨 Developing scalable full-stack applications
-- 📊 Exploring advanced data science techniques
-- 🚀 Contributing to open source ML projects
-- 💡 Sharing knowledge through technical writing
+- Building intelligent ML models and data pipelines
+- Developing scalable full-stack applications
+- Exploring advanced data science techniques
+- Contributing to open source ML projects
+- Sharing knowledge through technical writing
 
-## 🤝 Let's Connect!
+## I'd Love to Connect!!
 
 <div align="center">
   <a href="https://linkedin.com/in/n8liu">
@@ -73,5 +73,5 @@
 </div>
 
 <div align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate! 🚀</i>
+  <i>Thanks for visiting my profile! Feel free to explore my repositories, and I would love to talk about anything! </i>
 </div>
