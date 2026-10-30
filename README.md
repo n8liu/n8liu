@@ -1,9 +1,5 @@
 # Hi there, I'm Nathan! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full+Stack+Developer;Data+Scientist;Problem+Solver" alt="Typing SVG" />
-</div>
-
 ## My Tech Stack
 
 ### Languages
