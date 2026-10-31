@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="http://nathanliu.dev/">
-    <img src="https://github.com/n8liu.png" alt="Nathan Liu Portfolio" width="48" height="48" style="border-radius: 50%;" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/png;base64,BASE64_STRING_HERE&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
