@@ -1,4 +1,4 @@
-# Hihi, I'm Nathan! 👋
+## Hihi, I'm Nathan! 👋
 
 - 🏫 I graduated with my B.A. in Data Science & Minor in Computer Science at the University of California, Berkeley.  
 - 🌱 I was most recently a Data Engineer Engineer intern at Carbon Sustain working on the data and backend development.  
